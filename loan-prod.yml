@@ -2,10 +2,10 @@ build:
   version: 2
 
 loan:
-  message: "Welcome"
+  message: "{cipher}3a90157a55af9fcf553f88599c4a02471b09e83b7c699a2559f260828d3049da"
   contactDetails:
-    name: "Priyanshu"
-    email: "xyz@gmail.com"
+    name: "{cipher}efc3ce281790682cb1bd3b406fecf7053ec06efb03c839573368e7de198adfd5"
+    email: "{cipher}d3190be3494b990d938bb10306459f47878dd0b1e985ac6751712fdf6d2b127d"
   onCallSupport:
-    -(555) 555-1234
-    -(555) 523-1345
+    - "{cipher}3d7ea991b9b798a194651d572b2f07b2bd9effdd3d3420dbee4311e5cfc83d2f"
+    - "{cipher}9166ba6e40f91ec7f1186554e4bd777351d81e8647a09f75b69270bda703699e"
