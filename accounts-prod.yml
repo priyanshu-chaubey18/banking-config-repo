@@ -1,0 +1,11 @@
+build:
+  version: 2
+
+accounts:
+  message: "Welcome"
+  contactDetails:
+    name: "Priyanshu"
+    email: "xyz@gmail.com"
+  onCallSupport:
+    -(555) 555-1234
+    -(555) 523-1345
